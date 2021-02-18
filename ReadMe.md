@@ -6,6 +6,8 @@
 
 ## Arch && Manjaro
 
+刚刚得知，大多数 Linux 发行版都支持 `loadkeys dvorak` 这一命令。
+
 短期切换
 
 ```shell
