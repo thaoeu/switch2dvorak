@@ -19,3 +19,20 @@ Xorg中临时切换
 ```shell
 o.yqtxmal ekrpat
 ```
+
+长期切换
+
+编辑 `/etc/vconsole.conf`
+
+添加
+
+```
+KEYMAP=dvorak
+```
+
+
+## 其他配列
+
+### Programmer Dvorak
+### Left handed Dvorak
+### Right handed Dvorak
