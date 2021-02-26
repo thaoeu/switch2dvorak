@@ -17,5 +17,5 @@ nraet.fo ekrpat
 Xorg中临时切换
 
 ```shell
-setxkbmap dvorak
+o.yqtxmal ekrpat
 ```
