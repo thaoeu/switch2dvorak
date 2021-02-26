@@ -1,15 +1,21 @@
 # Linux
 
-	Linux 大多可使用命令切换，这里提供的字符在 Qwerty 布局下按 Dvorak 指法输入即可正确执行。
+	以下命令要在 Qwerty 布局下用 Dvorak 指法输入。
 
-	如：在 Qwerty 下按 Dvorak 指法输入 nraet.fo ekrpat，得到结果为："loadkeys dvorak"，执行即可切换布局。
+	如：在 Qwerty 下以 Dvorak 指法输入 nraet.fo ekrpat，实际输出为："loadkeys dvorak"。
 
 ## Arch && Manjaro
 
 刚刚得知，大多数 Linux 发行版都支持 `loadkeys dvorak` 这一命令。
 
-短期切换
+tty中临时切换
 
 ```shell
 nraet.fo ekrpat
+```
+
+Xorg中临时切换
+
+```shell
+setxkbmap dvorak
 ```
